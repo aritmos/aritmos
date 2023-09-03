@@ -1,6 +1,6 @@
 <h2> Hi I'm Seb! <img align="right" src="https://media.giphy.com/media/j0ph697YBTGM8zm3u8/giphy.gif" width="50"> </h2>
 
-- 👨‍🎓 I am a Mathematical Physics graduate who is also very interested in \<computation\>.
+- 👨‍🎓 I am a Mathematical Physics graduate who is also very interested in computers.
 - ⏲️ I enjoy focusing on performance-oriented implementations; a great contrast from my code golf past.
 - 🦀 I'm an average Rust lang enjoyer.
 - 🏢 While I have mostly only ever coded as a hobby in the past couple years, I hope to continue learning until I am competent enough to possibly persue a career in the field.
