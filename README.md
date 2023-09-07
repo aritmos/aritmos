@@ -14,7 +14,7 @@ impl AboutMeCode {
             ci_cd:     vec!["Markdown", "Git", "Github"],
             knowledge: vec!["Mathematics", "Theoretical Physics", "Computer Science"],
             langs:     vec!["Python", "Rust"],  // Some Zig, Julia, and C++ too         // WIP
-            databases: todo!()                                                          // WIP
+            databases: vec!["MongoDB"]                                                  // WIP
         }
     }
 }
