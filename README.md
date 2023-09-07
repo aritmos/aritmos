@@ -13,7 +13,7 @@ impl AboutMeCode {
             setup:     vec!["Windows", "Ubuntu (WSL)", "Neovim"],
             ci_cd:     vec!["Markdown", "Git", "Github"],
             knowledge: vec!["Mathematics", "Theoretical Physics", "Computer Science"],
-            langs:     vec!["Python", "Rust"],  // Some Julia and C++ too               // WIP
+            langs:     vec!["Python", "Rust"],  // Some Zig, Julia, and C++ too         // WIP
             databases: todo!()                                                          // WIP
         }
     }
