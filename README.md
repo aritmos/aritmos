@@ -1,4 +1,4 @@
-<h2> Hi I'm Seb! <img align="right" src="https://media.giphy.com/media/j0ph697YBTGM8zm3u8/giphy.gif" width="50"> </h2>
+<h2> 🐋 Hi I'm Seb! <img align="right" src="https://media.giphy.com/media/j0ph697YBTGM8zm3u8/giphy.gif" width="50"> </h2>
 
 - 🎓 I am a Mathematical Physics graduate who is also very interested in computers.
 - ⏲️ I enjoy focusing on performance-oriented implementations; a great contrast from my code golf past.
