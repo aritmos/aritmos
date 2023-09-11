@@ -27,7 +27,7 @@ impl AboutMeCode {
 
 ## 🌿 Currently Learning
 - Multithreading paradigms
-- Databases: MongoDB
+- Databases: MongoDB, MySQL, PostgreSQL
 - Golang
 
 ## 🌱 Planned Learning
