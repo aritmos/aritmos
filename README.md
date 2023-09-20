@@ -20,10 +20,20 @@ impl AboutMeCode {
 }
 ```
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html&exclude_repo=Computer-Modelling&layout=compact">
+</p>
+
 - 📈 Have recently taken to solving Leetcode and [Codewars](https://www.codewars.com) challenges in my spare time:
 
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2F340815e2&logo=leetcode&logoColor=yellow">
-<img src="https://www.codewars.com/users/aritmos/badges/micro">
+<div align="center">
+    <div>
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2F340815e2&logo=leetcode&logoColor=yellow">
+    </div>
+    <div style="padding-bottom: 4px;">
+        <img src="https://www.codewars.com/users/aritmos/badges/micro">
+    </div>
+</div>
 
 ## 🌿 Currently Learning
 - Databases: SQL (MySQL, PostgreSQL), MongoDB, SurrealDB
