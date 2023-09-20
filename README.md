@@ -13,8 +13,8 @@ impl AboutMeCode {
             setup:     vec!["Windows", "Ubuntu (WSL)", "Neovim"],
             ci_cd:     vec!["Markdown", "Git", "Github"],
             knowledge: vec!["Mathematics", "Theoretical Physics", "Computer Science"],
-            langs:     vec!["Python", "Rust"],  // Some Zig, Julia, and C++ too         // WIP
-            databases: vec!["MongoDB"]                                                  // WIP
+            langs:     vec!["Rust", "Python", "Lua", "Julia", "Go", "Zig", "C++"],      // Sorted by decreasing skill
+            databases: vec!["SQL", "MongoDB"]                                           // WIP
         }
     }
 }
@@ -26,11 +26,11 @@ impl AboutMeCode {
 <img src="https://www.codewars.com/users/aritmos/badges/micro">
 
 ## 🌿 Currently Learning
-- Multithreading paradigms
-- Databases: MongoDB, MySQL, PostgreSQL
-- Golang
+- Databases: SQL (MySQL, PostgreSQL), MongoDB, SurrealDB
+- Languages: Go, Zig
 
 ## 🌱 Planned Learning
-- Common Rust crates
-- Docker/NIX
-- New programming languages: (C++, Kotlin, ...)
+- Rust: Popular crates
+- Multithreading paradigms
+- Immutability and Containers (Docker/NIX)
+- Languages: C++, Kotlin, ...
