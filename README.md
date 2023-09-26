@@ -1,6 +1,8 @@
-<h2>🐋 Hi I'm Seb!</h2>
 
-
+<div>
+    <img align="left" src="https://media.giphy.com/media/j0ph697YBTGM8zm3u8/giphy.gif" width="50"> 
+    <h2>‎‎‎‎‎‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Hi I'm Seb!</h2>
+</div>
 
 - 🎓 I am a Mathematical Physics graduate who is also very interested in computers.
 - ⏲️ I enjoy focusing on performance-oriented implementations; a great contrast from my code golf past.
@@ -21,17 +23,16 @@ impl AboutMeCode {
     }
 }
 ```
-<img align="right" src="https://media.giphy.com/media/j0ph697YBTGM8zm3u8/giphy.gif" width="50">
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html&exclude_repo=Computer-Modelling,ziglings&layout=compact">
 </p>
 
-- 📈 Have recently taken to solving Leetcode and [Codewars](https://www.codewars.com) challenges in my spare time:
-
-<!-- <div style="display: flex; justify-content: center;"> -->
+- 📈 I like to solve Leetcode and [Codewars](https://www.codewars.com) challenges when I have the time:
+  
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2F340815e2&logo=leetcode&logoColor=yellow">
-  <img src="https://www.codewars.com/users/aritmos/badges/micro">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faritmos&logo=leetcode&logoColor=yellow">
+    <img alt="Dynamic Codewars Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Faritmos&query=%24.ranks.overall.name&style=for-the-badge&logo=codewars&logoColor=16171b&label=Rank&labelColor=B1361E&color=16171b">
 </div>
 
 ## 🌿 Currently Learning
