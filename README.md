@@ -4,10 +4,10 @@
     <h2>‎‎‎‎‎‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Hi I'm Seb!</h2>
 </div>
 
-- 🎓 I am a Mathematical Physics graduate who is also very interested in computers.
-- ⏲️ I enjoy focusing on performance-oriented implementations; a great contrast from my code golf past.
-- 🦀 I'm an average Rust-lang enjoyer.
-- 💼 While I have mostly only ever coded as a hobby in the past couple years, I hope to continue learning until I am competent enough to possibly persue a career in the field.
+- 🎓 I hold a degree in Mathematical Physics, blending a strong foundation in theoretical sciences with a keen interest in computer science.
+- ⏲️ Specialize in performance-oriented implementations; having evolved from a code golf enthusiast to someone who values efficiency and elegance in coding practices.
+- 🦀 Lifelong (`&'static`) Rust-lang enjoyer.
+- 💼 Although my coding journey began as a hobby, I'm committed to continuous learning, aspiring to attain the competence necessary for a possibly fulfilling career in programming.
 
 ```rust
 impl AboutMeCode {
