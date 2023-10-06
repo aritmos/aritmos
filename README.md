@@ -37,7 +37,7 @@ impl AboutMeCode {
 </div>
 
 ## 🌿 Currently Learning
-- Databases: SQL (MySQL, PostgreSQL), MongoDB, SurrealDB
+- Databases: SQL, MongoDB, SurrealDB
 - Languages: Go, Zig
 
 ## 🌱 Planned Learning
