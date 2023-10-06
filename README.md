@@ -23,8 +23,8 @@ impl AboutMeCode {
 }
 ```
 
-<p align="center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.3&count_weight=2&hide=html&layout=compact">
+<p align="right">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.3&count_weight=2&hide=html&layout=donut-vertical">
 </p>
 
 - 📈 I like to solve Leetcode and [Codewars](https://www.codewars.com) challenges when I have the time:
