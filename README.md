@@ -16,7 +16,6 @@ impl AboutMeCode {
         Self {
             setup:     vec!["Windows", "Ubuntu (WSL)", "Neovim"],
             ci_cd:     vec!["Markdown", "Git", "Github"],
-            knowledge: vec!["Mathematics", "Theoretical Physics", "Computer Science"],
             langs:     vec!["Rust", "Python", "Lua", "Julia", "Go", "Zig", "C++"],      // Sorted by decreasing skill
             databases: vec!["SQL", "MongoDB"]                                           // WIP
         }
@@ -25,7 +24,7 @@ impl AboutMeCode {
 ```
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html&exclude_repo=Computer-Modelling,ziglings&layout=compact">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.3&count_weight=2&hide=html&layout=compact">
 </p>
 
 - 📈 I like to solve Leetcode and [Codewars](https://www.codewars.com) challenges when I have the time:
