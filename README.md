@@ -14,10 +14,10 @@ impl AboutMeCode {
     #[inline(never)]
     pub fn new() -> Self {
         Self {
-            setup:     vec!["Windows", "Ubuntu (WSL)", "Neovim"],
-            ci_cd:     vec!["Markdown", "Git", "Github"],
-            langs:     vec!["Rust", "Python", "Lua", "Julia", "Go", "Zig", "C++"], // Sorted by decreasing skill
-            databases: vec!["SQL", "MongoDB"]                                      // WIP
+            setup: vec!["Windows", "Ubuntu (WSL)", "Neovim"],
+            ci_cd: vec!["Markdown", "Git", "Github"],
+            langs: vec!["Rust", "Python", "Lua", "Julia", "Go", "Zig", "C++"], // Sorted by decreasing skill
+            db:    vec!["SQL", "MongoDB"]                                      // WIP
         }
     }
 }
