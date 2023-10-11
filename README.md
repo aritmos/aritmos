@@ -6,7 +6,7 @@
 
 - 🎓 Mathematical Physics graduate, blending a strong foundation in theoretical sciences with a keen interest in computer science.
 - ⏲️ Specialize in performance-oriented implementations; having evolved from a code golf enthusiast to someone who values efficiency and elegance in coding practices.
-- 🦀 Lifelong (`&'static`) Rust-lang enjoyer.
+- 🦀 Lifelong (`&'static`) Rust-lang enjoyer and (neo)vim advocate.
 - 💼 Although my coding journey began as a hobby, I'm committed to continuous learning, aspiring to attain the competence necessary for a possibly fulfilling career involving programming.
 
 ```rust
