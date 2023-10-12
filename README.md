@@ -24,7 +24,7 @@ impl AboutMeCode {
 ```
 
 <p align="right">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.3&count_weight=2&hide=html&layout=donut-vertical">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.3&count_weight=2&hide=html&layout=donut-vertical&langs_count=6">
 </p>
 
 - 📈 I like to solve Leetcode and [Codewars](https://www.codewars.com) challenges when I have the time:
