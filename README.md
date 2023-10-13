@@ -27,20 +27,34 @@ impl AboutMeCode {
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.3&count_weight=2&hide=html&layout=donut-vertical&langs_count=6">
 </p>
 
-- 📈 I like to solve Leetcode and [Codewars](https://www.codewars.com) challenges when I have the time:
+- 📈 Constantly improvng my skills with platforms such as Leetcode, and Codewars when I have the time
   
 <div align="center">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faritmos&logo=leetcode&logoColor=yellow">
+    <a href="https://leetcode.com/aritmos/">
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faritmos&logo=leetcode&logoColor=yellow">
+    </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
-    <img alt="Dynamic Codewars Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodewars.com%2Fapi%2Fv1%2Fusers%2Faritmos&query=%24.ranks.overall.name&prefix=%E3%80%88&suffix=%E3%80%89&style=for-the-badge&logo=codewars&logoColor=f05656&label=RANK&labelColor=16171b&color=bba2ff">
+    <a href="https://www.codewars.com/users/aritmos">
+        <img alt="Dynamic Codewars Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodewars.com%2Fapi%2Fv1%2Fusers%2Faritmos&query=%24.ranks.overall.name&prefix=%E3%80%88&suffix=%E3%80%89&style=for-the-badge&logo=codewars&logoColor=f05656&label=RANK&labelColor=16171b&color=bba2ff">
+    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
+    <a href="https://adventofcode.com/">
+            <img src="https://img.shields.io/badge/49-yellow?style=for-the-badge&logo=advent-of-code&label=AoC">
+    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
+    <a href="https://www.hackerrank.com/certificates/7f453db8ead9">
+        <img src="https://img.shields.io/badge/Certificates%20-%20green?style=for-the-badge&logo=hackerrank&labelColor=0e141e&color=32c7662">
+    </a>
+</div>
+<div align="center">
+
 </div>
 
 ## 🌿 Currently Learning
-- Databases: SQL, MongoDB, SurrealDB
+- Databases: SQL (MySQL & Postgres), MongoDB, SurrealDB
 - Languages: Go, Zig
 
 ## 🌱 Planned Learning
 - Rust: Popular crates
 - Multithreading paradigms
 - Immutability and Containers (Docker/NIX)
-- Languages: C++, Kotlin, ...
