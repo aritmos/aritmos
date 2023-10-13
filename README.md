@@ -27,7 +27,7 @@ impl AboutMeCode {
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.3&count_weight=2&hide=html&layout=donut-vertical&langs_count=6">
 </p>
 
-- 📈 Constantly improvng my skills with platforms such as Leetcode, and Codewars when I have the time
+- 📈 Continuously improving my skills with platforms such as Leetcode and Codewars when I have the time
   
 <div align="center">
     <a href="https://leetcode.com/aritmos/">
