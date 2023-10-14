@@ -27,7 +27,7 @@ impl AboutMeCode {
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.3&count_weight=2&hide=html&layout=donut-vertical&langs_count=6">
 </p>
 
-- 📈 Continuously improving my skills with platforms such as Leetcode and Codewars when I have the time
+- 📈 Continuously improving my skills with platforms such as Leetcode and Codewars during my spare time:
   
 <div align="center">
     <a href="https://leetcode.com/aritmos/">
@@ -37,7 +37,8 @@ impl AboutMeCode {
     <a href="https://www.codewars.com/users/aritmos">
         <img alt="Dynamic Codewars Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodewars.com%2Fapi%2Fv1%2Fusers%2Faritmos&query=%24.ranks.overall.name&prefix=%E3%80%88&suffix=%E3%80%89&style=for-the-badge&logo=codewars&logoColor=f05656&label=RANK&labelColor=16171b&color=bba2ff">
     </a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
+</div>
+<div align="center">
     <a href="https://adventofcode.com/">
             <img src="https://img.shields.io/badge/49-yellow?style=for-the-badge&logo=advent-of-code&label=stars">
     </a>
