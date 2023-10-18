@@ -52,10 +52,11 @@ impl AboutMeCode {
 </div>
 
 ## 🌿 Currently Learning
-- Databases: SQL (MySQL & Postgres), MongoDB, SurrealDB
-- Languages: Go, Zig
+- Databases: MySQL, Postgres, MongoDB, SurrealDB
+- Languages: Go, SQL
 
 ## 🌱 Planned Learning
-- Rust: Popular crates
+- Mainstream Rust crates
 - Multithreading paradigms
 - Immutability and Containers (Docker/NIX)
+- Languages: Ziglang, Kotlin
