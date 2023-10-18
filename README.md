@@ -17,7 +17,7 @@ impl AboutMeCode {
             setup: vec!["Windows", "Ubuntu (WSL)", "Neovim"],
             ci_cd: vec!["Markdown", "Git", "Github"],
             langs: vec!["Rust", "Python", "Lua", "Julia", "Go", "Zig", "C++"], // Sorted by decreasing skill
-            db:    vec!["SQL", "MongoDB"]                                      // WIP
+            db:    vec!["SQL", "PostgreSQL", "MongoDB", "SurrealDB"]           // WIP
         }
     }
 }
