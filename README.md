@@ -17,7 +17,7 @@ impl AboutMeCode {
             setup: vec!["Windows", "Ubuntu (WSL)", "Neovim"],
             ci_cd: vec!["Markdown", "Git", "Github"],
             langs: vec!["Rust", "Python", "Lua", "Julia", "Go", "Zig", "C++"], // Sorted by decreasing skill
-            db:    vec!["SQL", "PostgreSQL", "MongoDB", "SurrealDB"]           // WIP
+            db:    vec!["SQL", "PostgreSQL", "MongoDB", "SurrealDB"]           
         }
     }
 }
@@ -53,12 +53,13 @@ impl AboutMeCode {
 
 </div>
 
-## 🌿 Currently Learning
-- Databases: MySQL, Postgres, MongoDB, SurrealDB
+## 🌿 Currently Improving
+- Databases: Postgres, MongoDB
 - Languages: Go, SQL
+- Libraries: Pandas (Py), Serde (Rs)
 
 ## 🌱 Planned Learning
 - Mainstream Rust crates
 - Multithreading paradigms
 - Immutability and Containers (Docker/NIX)
-- Languages: Ziglang, Kotlin
+- Languages: Zig, Kotlin
