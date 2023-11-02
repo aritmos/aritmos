@@ -5,9 +5,9 @@
 </div>
 
 - 🎓 Mathematical Physics graduate, blending a strong foundation in theoretical sciences with a keen interest in computer science.
-- ⏲️ Specialize in performance-oriented implementations; having evolved from a code golf enthusiast to someone who values efficiency and elegance in coding practices.
-- 🦀 Lifelong (`&'static`) Rust-lang enjoyer and (neo)vim advocate.
-- 💼 Although my coding journey began as a hobby, I'm committed to continuous learning, aspiring to attain the competence necessary for a possibly fulfilling career involving programming.
+- ⏲️ Specialize in performance-oriented implementations; value efficiency and elegance in coding practices.
+- 🦀 Lifelong `&'static` Rust-lang enjoyer and (neo)vim advocate.
+- 💼 I'm committed to continuous learning, and actively working to gain the expertise necessary for possibly fulfilling career in programming.
 
 ```rust
 impl AboutMeCode {
@@ -23,13 +23,16 @@ impl AboutMeCode {
 }
 ```
 
-<p align="right">
+<div align="right">
     <picture> <!-- Removes the hyperlink of the inner image -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.8&count_weight=0.5&hide=html&layout=donut-vertical&langs_count=6&exclude_repo=ziglings">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.8&count_weight=0.5&hide=html,javascript&layout=donut-vertical&langs_count=6&exclude_repo=ziglings">
     </picture>
-</p>
+</div>
 
-- 📈 Continuously improving my skills with platforms such as Leetcode and Codewars during my spare time:
+<div>
+<ul>
+    <li>📈 Continuously improving my skills with platforms such as Leetcode and Codewars during my spare time:</li>
+</ul>
   
 <div align="center">
     <a href="https://leetcode.com/aritmos/">
@@ -49,17 +52,20 @@ impl AboutMeCode {
         <img src="https://img.shields.io/badge/Certificates%20-%20green?style=for-the-badge&logo=hackerrank&labelColor=0e141e&color=32c7662">
     </a>
 </div>
-<div align="center">
 
+<h2>🌿 Currently Improving</h2> 
+<ul>
+<li><b>Databases</b>: Postgres, MongoDB</li>
+<li><b>Languages</b>: Go, SQL</li>
+<li><b>Libraries</b>: Pandas (py), Serde (rs)</li>
+</ul>
+
+
+<h2>🌱 Planned Learning</h2>
+<ul>
+<li>Rust crates</li>
+<li>Multithreading paradigms (rs)</li>
+<li>Immutability and Containers (Docker/NIX)</li>
+<li><b>Languages</b>: Zig, Kotlin</li>
+</ul>
 </div>
-
-## 🌿 Currently Improving
-- Databases: Postgres, MongoDB
-- Languages: Go, SQL
-- Libraries: Pandas (Py), Serde (Rs)
-
-## 🌱 Planned Learning
-- Mainstream Rust crates
-- Multithreading paradigms
-- Immutability and Containers (Docker/NIX)
-- Languages: Zig, Kotlin
