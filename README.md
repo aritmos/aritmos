@@ -69,3 +69,7 @@ impl AboutMeCode {
 <li><b>Languages</b>: Zig, Kotlin</li>
 </ul>
 </div>
+
+<div align="center">
+    <p> ⭐ Check out <a href="https://www.github.com/aritmos/sudoxu"><code>sudoxu</code><a>, my latest active project! ⭐ </p>
+</div>
