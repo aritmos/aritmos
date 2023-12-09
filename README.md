@@ -7,7 +7,7 @@
 - 🎓 Mathematical Physics graduate, blending a strong foundation in theoretical sciences with a keen interest in computer science.
 - ⏲️ Specialize in performance-oriented implementations; value efficiency and elegance in coding practices.
 - 🦀 Lifelong `&'static` Rust-lang enjoyer and (neo)vim advocate.
-- 💼 I'm committed to continuous learning, and actively working to gain the expertise necessary for possibly fulfilling career in programming.
+- 💼 I'm committed to continuous learning, and actively working towards possibly fulfilling career in programming environments.
 
 ```rust
 impl AboutMeCode {
