@@ -57,7 +57,7 @@ impl AboutMeCode {
 <ul>
 <li><b>Databases</b>: Postgres, MongoDB</li>
 <li><b>Languages</b>: Go, SQL</li>
-<li><b>Libraries</b>: Pandas (py), Serde (rs)</li>
+<li><b>Libraries</b>: pandas (py), nom (rs)</li>
 </ul>
 
 
