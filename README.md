@@ -45,7 +45,7 @@ impl AboutMeCode {
 </div>
 <div align="center">
     <a href="https://adventofcode.com/">
-            <img src="https://img.shields.io/badge/57-yellow?style=for-the-badge&logo=advent-of-code&label=stars">
+            <img src="https://img.shields.io/badge/59-yellow?style=for-the-badge&logo=advent-of-code&label=stars">
     </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
     <a href="https://www.hackerrank.com/certificates/7f453db8ead9">
