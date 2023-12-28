@@ -51,12 +51,12 @@ pub trait About {
 </ul>
   
 <div align="center">
-    <a href="https://leetcode.com/aritmos/">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faritmos&logo=leetcode&logoColor=yellow">
-    </a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
     <a href="https://www.codewars.com/users/aritmos">
         <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodewars.com%2Fapi%2Fv1%2Fusers%2Faritmos&query=%24.ranks.overall.name&prefix=%E3%80%88&suffix=%E3%80%89&style=for-the-badge&logo=codewars&logoColor=f05656&label=RANK&labelColor=16171b&color=bba2ff">
+    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
+     <a href="https://leetcode.com/aritmos/">
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faritmos&logo=leetcode&logoColor=yellow">
     </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
      <a href="https://adventofcode.com/">
@@ -66,9 +66,10 @@ pub trait About {
     <a href="https://exercism.com/profiles/aritmos">
         <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fexercism.org%2Fapi%2Fv2%2Fprofiles%2Faritmos%2Fsolutions&query=%24.meta.total_count&style=for-the-badge&logo=exercism&label=SOLVED&labelColor=130b43">
     </a>
-    <!--     <a href="https://www.hackerrank.com/certificates/7f453db8ead9"> -->
-    <!--         <img src="https://img.shields.io/badge/Certificates%20-%20green?style=for-the-badge&logo=hackerrank&labelColor=0e141e&color=32c7662"> -->
-    <!--     </a> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
+    <a href="https://www.hackerrank.com/certificates/7f453db8ead9"> 
+         <img src="https://img.shields.io/badge/Certificates%20-%20green?style=for-the-badge&logo=hackerrank&labelColor=0e141e&color=32c7662">
+    </a>
 </div>
 
 <h2>🌿 Currently Improving</h2> 
