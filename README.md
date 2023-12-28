@@ -16,7 +16,7 @@ impl AboutMeCode {
         Self {
             setup: vec!["Windows", "Ubuntu (WSL)", "Neovim"],
             ci_cd: vec!["Markdown", "Git", "Github"],
-            langs: vec!["Rust", "Python", "Lua", "Julia", "Go", "Zig", "C++"], // Sorted by decreasing skill
+            langs: vec!["Rust", "Python", "Lua", "Zig", "Go", "Julia"], // Sorted by decreasing skill
             db:    vec!["SQL", "PostgreSQL", "MongoDB", "SurrealDB"]           
         }
     }
