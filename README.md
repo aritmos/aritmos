@@ -4,20 +4,36 @@
     <h2>‎‎‎‎‎‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Hi I'm Seb!</h2>
 </div>
 
+<!--
 - 🎓 Mathematical Physics graduate, blending a strong foundation in theoretical sciences with a keen interest in computer science.
 - ⏲️ Specialize in performance-oriented implementations; value efficiency and elegance in coding practices.
 - 🦀 Lifelong `&'static` Rust-lang enjoyer and (neo)vim advocate.
 - 💼 I'm committed to continuous learning, and actively working towards possibly fulfilling career in programming environments.
+-->
 
 ```rust
-impl AboutMeCode {
-    #[inline(never)]
-    pub fn new() -> Self {
-        Self {
-            setup: vec!["Windows", "Ubuntu (WSL)", "Neovim"],
-            ci_cd: vec!["Markdown", "Git", "Github"],
-            langs: vec!["Rust", "Python", "Lua", "Zig", "Go", "Julia"],
-            db:    vec!["SQL", "PostgreSQL", "MongoDB", "SurrealDB"],           
+use libme::*;
+
+pub trait About {
+    pub fn me() -> AboutMe {
+        AboutMe {
+            edu: "Mathematical Physics (MPhys w/ Hons)",
+            #[unstable(feature = "lang_chinese", issue = "888")]
+            langs: vec![English, Spanish, Chinese], 
+            interests: Interests {
+                stem:       vec![Math.DifferentialGeometry, Physics.Theoretical, Code.DataAndPerformance],
+                humanities: vec![Linguistics, Philosophy],
+                sports:     vec![Padel, Bouldering]
+            }
+        }
+    }
+
+    pub fn code() -> AboutCode {
+        AboutMeCode {
+            setup: vec![UbuntuWSL, Neovim, Zellij],
+            ci_cd: vec![Markdown, Git, Github],
+            langs: vec![Rust, Python, Lua, Zig, Go, Julia, ASM],
+            db:    vec![SQL, Postgres, Mongo, Surreal],           
         }
     }
 }
@@ -31,7 +47,7 @@ impl AboutMeCode {
 
 <div>
 <ul>
-    <li>📈 Continuously improving my skills with platforms such as Leetcode and Codewars during my spare time:</li>
+    <li> Continuously learning and improving my skills during my spare time:</li>
 </ul>
   
 <div align="center">
@@ -58,8 +74,8 @@ impl AboutMeCode {
 <h2>🌿 Currently Improving</h2> 
 <ul>
 <li><b>Databases</b>: Postgres, MongoDB</li>
-<li><b>Languages</b>: Go, SQL</li>
-<li><b>Libraries</b>: pandas (py), nom (rs)</li>
+<li><b>Languages</b>: Go, Zig, SQL</li>
+<li><b>Libraries</b>: pandas.py, nom.rs</li>
 </ul>
 
 
@@ -68,10 +84,10 @@ impl AboutMeCode {
 <li>Rust crates</li>
 <li>Multithreading paradigms (rs)</li>
 <li>Immutability and Containers (Docker/NIX)</li>
-<li><b>Languages</b>: Zig, Kotlin</li>
+<li><b>Languages</b>: PL/SQL, Kotlin / C#</li>
 </ul>
 </div>
 
 <div align="center">
-    <p> ⭐ Check out <a href="https://www.github.com/aritmos/sudoxu"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/steam-insights"><code>steam-explorer</code><a>, my latest active projects! ⭐ </p>
+    <p> ⭐ Check out <a href="https://www.github.com/aritmos/sudoxu"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/steam-insights"><code>steam-explorer</code><a>, my latest projects! ⭐ </p>
 </div>
