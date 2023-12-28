@@ -71,5 +71,5 @@ impl AboutMeCode {
 </div>
 
 <div align="center">
-    <p> ⭐ Check out <a href="https://www.github.com/aritmos/sudoxu"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/steam-insights"><code>steam-insights</code><a>, my latest active projects! ⭐ </p>
+    <p> ⭐ Check out <a href="https://www.github.com/aritmos/sudoxu"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/steam-insights"><code>steam-explorer</code><a>, my latest active projects! ⭐ </p>
 </div>
