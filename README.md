@@ -64,7 +64,7 @@ pub trait About {
     </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
     <a href="https://exercism.com/profiles/aritmos">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fexercism.org%2Fapi%2Fv2%2Fprofiles%2Faritmos%2Fsolutions&query=%24.meta.total_count&style=for-the-badge&logo=exercism&label=SOLVED&labelColor=130b43">
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fexercism.org%2Fapi%2Fv2%2Fprofiles%2Faritmos%2Fsolutions&query=%24.meta.total_count&style=for-the-badge&logo=exercism&label=REP&labelColor=130b43">
     </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
     <a href="https://www.hackerrank.com/certificates/7f453db8ead9"> 
