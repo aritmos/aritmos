@@ -17,14 +17,17 @@ use libme::*;
 impl About for Me {
     fn me() -> AboutMe {
         AboutMe {
-            edu: "Mathematical Physics (MPhys w/ Hons)",
+            edu:       "Mathematical Physics (MPhys w/ Hons)",
             #[unstable(feature = "lang_chinese", issue = "888")]
-            langs: vec![English, Spanish, Chinese], 
-            interests: Interests {
-                stem:       vec![Math.DifferentialGeometry, Physics.Theoretical, Code.DataAndPerformance],
-                humanities: vec![Linguistics, Philosophy],
-                sports:     vec![Padel, Bouldering]
-            }
+            langs:     vec![English, Spanish, Chinese],
+            interests: Interests::new()
+                .add::<Stem>(&[
+                    Math.DifferentialGeometry,
+                    Phys.Theoretical,
+                    Code.DataAndPerformance,
+                ])
+                .add::<Humanities>(&[Linguistics, Philosophy])
+                .add::<Sports>(&[Padel, Bouldering]),
         }
     }
 
@@ -33,7 +36,7 @@ impl About for Me {
             setup: vec![UbuntuWSL, Neovim, Zellij],
             ci_cd: vec![Markdown, Git, Github],
             langs: vec![Rust, Python, Lua, Zig, Go, Julia, ASM],
-            db:    vec![SQL, Postgres, Mongo, Surreal],           
+            db:    vec![SQL, Postgres, Mongo, Surreal],
         }
     }
 }
