@@ -76,19 +76,18 @@ pub trait About {
 <ul>
 <li><b>Databases</b>: Postgres, MongoDB</li>
 <li><b>Languages</b>: Go, Zig, SQL</li>
-<li><b>Libraries</b>: pandas.py, nom.rs</li>
+<li><b>Libraries</b>: syn.rs, sync.rs</li>
 </ul>
 
 
 <h2>🌱 Planned Learning</h2>
 <ul>
 <li>Rust crates</li>
-<li>Multithreading paradigms (rs)</li>
 <li>Immutability and Containers (Docker/NIX)</li>
 <li><b>Languages</b>: PL/SQL, Kotlin / C#</li>
 </ul>
 </div>
 
 <div align="center">
-    <p> ⭐ Check out <a href="https://www.github.com/aritmos/sudoxu"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/steam-insights"><code>steam-explorer</code><a>, my latest projects! ⭐ </p>
+    <p> ⭐ Check out <a href="https://www.github.com/aritmos/sudoxu"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/steam-explorer"><code>steam-explorer</code><a>, my latest projects! ⭐ </p>
 </div>
