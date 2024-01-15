@@ -14,8 +14,8 @@
 ```rust
 use libme::*;
 
-pub trait About {
-    pub fn me() -> AboutMe {
+impl About for Me {
+    fn me() -> AboutMe {
         AboutMe {
             edu: "Mathematical Physics (MPhys w/ Hons)",
             #[unstable(feature = "lang_chinese", issue = "888")]
@@ -28,7 +28,7 @@ pub trait About {
         }
     }
 
-    pub fn code() -> AboutCode {
+    fn code() -> AboutCode {
         AboutMeCode {
             setup: vec![UbuntuWSL, Neovim, Zellij],
             ci_cd: vec![Markdown, Git, Github],
