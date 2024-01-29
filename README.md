@@ -77,9 +77,8 @@ impl About for Me {
 
 <h2>🌿 Currently Improving</h2> 
 <ul>
-<li><b>Databases</b>: Postgres, MongoDB</li>
-<li><b>Languages</b>: Go, Zig, SQL</li>
-<li><b>Libraries</b>: syn.rs, sync.rs</li>
+<li><b>Langs</b>: C#, Go</li>
+<li><b>Libs</b>: syn.rs, sync.rs</li>
 </ul>
 
 
@@ -87,10 +86,9 @@ impl About for Me {
 <ul>
 <li>Rust crates</li>
 <li>Immutability and Containers (Docker/NIX)</li>
-<li><b>Languages</b>: PL/SQL, Kotlin / C#</li>
 </ul>
 </div>
 
 <div align="center">
-    <p> ⭐ Check out <a href="https://www.github.com/aritmos/sudoxu"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/steam-explorer"><code>steam-explorer</code><a>, my latest projects! ⭐ </p>
+    <p> ⭐ Check out <a href="https://www.github.com/aritmos/"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/rs2sql"><code>RS→SQL</code><a>, my latest Rust projects! ⭐ </p>
 </div>
