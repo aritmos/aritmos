@@ -17,7 +17,7 @@ use libme::*;
 impl About for Me {
     fn me() -> AboutMe {
         AboutMe {
-            edu: "Mathematical Physics (MPhys w/ Hons)",
+            edu: "Mathematical Physics (MPhys)",
             #[unstable(feature = "lang_chinese", issue = "888")]
             langs: vec![English, Spanish, Chinese],
             interests: Interests::new()
