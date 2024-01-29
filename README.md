@@ -44,7 +44,7 @@ impl About for Me {
 
 <div align="right">
     <picture> <!-- Removes the hyperlink of the inner image -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=donut-vertical&langs_count=6&exclude_repo=ziglings">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=donut-vertical&langs_count=6&exclude_repo=ziglings,exercism">
     </picture>
 </div>
 
