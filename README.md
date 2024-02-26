@@ -90,5 +90,5 @@ impl About for Me {
 </div>
 
 <div align="center">
-    <p> ⭐ Check out <a href="https://www.github.com/aritmos/"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/rs2sql"><code>RS→SQL</code><a>, my latest Rust projects! ⭐ </p>
+    <p> ⭐ Check out <a href="https://www.github.com/aritmos/"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/rs2sql"><code>CrabQL</code><a>, my latest Rust projects! ⭐ </p>
 </div>
