@@ -12,30 +12,16 @@
 -->
 
 ```rust
-use libme::*;
+use tech::prelude::*;
 
 impl About for Me {
-    fn me() -> AboutMe {
-        AboutMe {
-            edu: "Mathematical Physics (MPhys)",
-            #[unstable(feature = "lang_chinese", issue = "888")]
-            langs: vec![English, Spanish, Chinese],
-            interests: Interests::new()
-                .add::<Stem>(&[
-                    Math.DifferentialGeometry,
-                    Phys.Theoretical,
-                    Code.DataAndPerformance,
-                ])
-                .add::<Humanities>(&[Linguistics, Philosophy])
-                .add::<Sports>(&[Padel, Bouldering]),
-        }
-    }
+    type CodeOutput = AboutMeCode;
 
-    fn code() -> AboutCode {
+    fn code() -> Self::CodeOutput {
         AboutMeCode {
-            setup: vec![UbuntuWSL, Neovim, Zellij],
+            setup: vec![ArchWSL, Neovim, Zellij],
             ci_cd: vec![Markdown, Git, Github],
-            langs: vec![Rust, Python, Lua, Zig, Go, Julia, ASM],
+            langs: vec![Rust, Python, Go, Lua, Zig, CSharp, Julia, ASM],
             db:    vec![SQL, Postgres, Mongo, Surreal],
         }
     }
@@ -75,16 +61,16 @@ impl About for Me {
     </a>
 </div>
 
-<h2>🌿 Currently Improving</h2> 
+<h3>🌿 Currently Improving</h3> 
 <ul>
-<li><b>Langs</b>: C#, Go</li>
-<li><b>Libs</b>: syn.rs, sync.rs</li>
+<li><b>Langs</b>: Go, C#</li>
+<li><b>Libs</b>: <code>syn.rs</code>, <code>sync.rs</code></li>
 </ul>
 
 
-<h2>🌱 Planned Learning</h2>
+<h3>🌱 Planned Learning</h3>
 <ul>
-<li>Rust crates</li>
+<li>More Rust crates</li>
 <li>Immutability and Containers (Docker/NIX)</li>
 </ul>
 </div>
