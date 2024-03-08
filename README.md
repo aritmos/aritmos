@@ -45,7 +45,7 @@ impl About for Me {
     </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
     <a href="https://leetcode.com/aritmos/">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faritmos&logo=leetcode&logoColor=yellow">
+        <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Faritmos&query=%24.totalSolved&style=for-the-badge&logo=leetcode&logoColor=yellow&label=LEETCODE&labelColor=black&color=ffa116">
     </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
      <a href="https://adventofcode.com/">
