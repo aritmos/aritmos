@@ -4,6 +4,10 @@
     <h2>‎‎‎‎‎‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Hi I'm Seb!</h2>
 </div>
 
+- Generic techie who likes to code stuff and learn new languages.
+- Most interested about performance-oriented design: SIMD, Data, Alloc, Alg, Hardware, etc.
+- `&'static` (lifelong) Rustlang enjoyer 🦀, Zig advocate 🦎, and (neo)vim preacher ⌨️.
+
 <!--
 - 🎓 Mathematical Physics graduate, blending a strong foundation in theoretical sciences with a keen interest in computer science.
 - ⏲️ Specialize in performance-oriented implementations; value efficiency and elegance in coding practices.
@@ -12,25 +16,29 @@
 -->
 
 ```rust
-use tech::prelude::*;
+impl_aboutme!{
+    use setup::{WSL::Arch, Neovim, Zellij, Lazygit};
+    use ci_cd::{Markdown, Git, Github};
+    use db::{Postgres, Mongo, Surreal};
+    use langs::{
+        system::{Rust, Zig, C},
+        script::{Go, Lua},
+        data::{Python, Julia},
+        obj::{CSharp},
+        misc::{SQL, ASM::x86_64}, // WIP: Mandarin
+    };
 
-impl About for Me {
-    type CodeOutput = AboutMeCode;
-
-    fn code() -> Self::CodeOutput {
-        AboutMeCode {
-            setup: vec![ArchWSL, Neovim, Zellij],
-            ci_cd: vec![Markdown, Git, Github],
-            langs: vec![Rust, Python, Go, Lua, Zig, CSharp, Julia, ASM],
-            db:    vec![SQL, Postgres, Mongo, Surreal],
-        }
-    }
+    #[unstable(
+        feature = "max_perf",
+        reason = "inheritely memory-unsafe type",
+    )]
+    pub struct Aritmos {}
 }
 ```
 
 <div align="right">
     <picture> <!-- Removes the hyperlink of the inner image -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.7&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=donut-vertical&langs_count=6&exclude_repo=ziglings,exercism">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=donut-vertical&langs_count=6&exclude_repo=ziglings,exercism">
     </picture>
 </div>
 
@@ -63,7 +71,7 @@ impl About for Me {
 
 <h3>🌿 Currently Improving</h3> 
 <ul>
-<li><b>Langs</b>: Go, C#</li>
+<li><b>Langs</b>: Go, Zig, C</li>
 <li><b>Libs</b>: <code>syn.rs</code>, <code>sync.rs</code></li>
 </ul>
 
