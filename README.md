@@ -5,7 +5,7 @@
 </div>
 
 - Generic techie who likes to code stuff and learn new languages.
-- Most interested about performance-oriented design: SIMD, Data, Alloc, Alg, Hardware, etc.
+- Most interested in performance-oriented design: SIMD, Data, Alloc, Algs, Hardware, etc.
 - `&'static` (lifelong) Rustlang enjoyer 🦀, Zig advocate 🦎, and (neo)vim preacher ⌨️.
 
 <!--
