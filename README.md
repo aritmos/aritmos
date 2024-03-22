@@ -8,16 +8,9 @@
 - Most interested in performance-oriented design: SIMD, Data, Alloc, Algs, Hardware, etc.
 - `&'static` (lifelong) Rustlang enjoyer 🦀, Zig advocate 🦎, and (neo)vim preacher ⌨️.
 
-<!--
-- 🎓 Mathematical Physics graduate, blending a strong foundation in theoretical sciences with a keen interest in computer science.
-- ⏲️ Specialize in performance-oriented implementations; value efficiency and elegance in coding practices.
-- 🦀 Lifelong `&'static` Rust-lang enjoyer and (neo)vim advocate.
-- 💼 I'm committed to continuous learning, and actively working towards possibly fulfilling career in programming environments.
--->
-
 ```rust
 impl_aboutme!{
-    use setup::{WSL::Arch, Neovim, Zellij, Lazygit};
+    use setup::{WSL::Arch, Neovim, Zellij};
     use ci_cd::{Markdown, Git, Github};
     use db::{Postgres, Mongo, Surreal};
     use langs::{
@@ -25,7 +18,7 @@ impl_aboutme!{
         script::{Go, Lua},
         data::{Python, Julia},
         obj::{CSharp},
-        misc::{SQL, ASM::x86_64}, // WIP: Mandarin
+        misc::{SQL, ASM::x86_64},
     };
 
     #[unstable(
