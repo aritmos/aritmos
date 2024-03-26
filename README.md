@@ -17,7 +17,7 @@
 </ul></li>
 <li>Always learning new stuff towards writing more elegant and efficient code.</li>
 <li>Most interested in performance and data-oriented design:
-    <ul><li>SIMD, data, caches, allocations, algorithms, hardware, ...</li></ul></li>
+    <ul><li>DOD, SIMD, caches, allocations, algorithms, hardware, ...</li></ul></li>
 </ul>
 </div>
 
