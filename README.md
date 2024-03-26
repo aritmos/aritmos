@@ -4,12 +4,14 @@
     <h2>‎‎‎‎‎‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Hi I'm Seb!</h2>
 </div>
 
-- Generic techie who likes to code stuff and learn new languages.
-- Most interested in performance-oriented design: SIMD, Data, Alloc, Algs, Hardware, etc.
+- Generic techie who likes to abuse compute power.
+- Most interested in performance and data-oriented design: SIMD, Cache, Alloc, Algs, Hardware, etc.
+- Continuously learning new languages, libraries and tricks to write elegant and efficient code.
 - `&'static` (lifelong) Rustlang enjoyer 🦀, Zig advocate 🦎, and (neo)vim preacher ⌨️.
 
 ```rust
-impl_aboutme!{
+#[impl_about_me(features="all")]
+mod about_me {
     use setup::{WSL::Arch, Neovim, Zellij};
     use ci_cd::{Markdown, Git, Github};
     use db::{Postgres, Mongo, Surreal};
@@ -18,20 +20,16 @@ impl_aboutme!{
         script::{Go, Lua},
         data::{Python, Julia},
         obj::{CSharp},
-        misc::{SQL, ASM::x86_64},
+        misc::{SQL, ASM}, // x86_64
     };
 
-    #[unstable(
-        feature = "max_perf",
-        reason = "inheritely memory-unsafe type",
-    )]
-    pub struct Aritmos {}
+    pub struct Me {}
 }
 ```
 
 <div align="right">
     <picture> <!-- Removes the hyperlink of the inner image -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=donut-vertical&langs_count=6&exclude_repo=ziglings,exercism">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=compact&langs_count=6&exclude_repo=ziglings,exercism">
     </picture>
 </div>
 
@@ -62,20 +60,25 @@ impl_aboutme!{
     </a>
 </div>
 
+
+
 <h3>🌿 Currently Improving</h3> 
 <ul>
 <li><b>Langs</b>: Go, Zig, C</li>
 <li><b>Libs</b>: <code>syn.rs</code>, <code>sync.rs</code></li>
 </ul>
 
+<div align="right">
+    <picture> <!-- Removes the hyperlink of the inner image -->
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=aritmos&show_icons=true&locale=en">
+    </picture>
+</div>
 
 <h3>🌱 Planned Learning</h3>
 <ul>
 <li>More Rust crates</li>
 <li>Immutability and Containers (Docker/NIX)</li>
 </ul>
+
 </div>
 
-<div align="center">
-    <p> ⭐ Check out <a href="https://www.github.com/aritmos/"><code>sudoxu</code><a> and <a href="https://www.github.com/aritmos/rs2sql"><code>CrabQL</code><a>, my latest Rust projects! ⭐ </p>
-</div>
