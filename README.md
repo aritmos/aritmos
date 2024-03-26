@@ -26,18 +26,6 @@ mod about_me {
     pub struct Me {}
 }
 ```
-
-<div align="right">
-    <picture> <!-- Removes the hyperlink of the inner image -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=compact&langs_count=6&exclude_repo=ziglings,exercism">
-    </picture>
-</div>
-
-<div>
-<ul>
-    <li> Continuously learning and improving my skills during my spare time:</li>
-</ul>
-  
 <div align="center">
     <a href="https://www.codewars.com/users/aritmos">
         <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodewars.com%2Fapi%2Fv1%2Fusers%2Faritmos&query=%24.ranks.overall.name&prefix=%E3%80%88&suffix=%E3%80%89&style=for-the-badge&logo=codewars&logoColor=f05656&label=RANK&labelColor=16171b&color=bba2ff">
@@ -60,25 +48,29 @@ mod about_me {
     </a>
 </div>
 
+<div>
+    <h3>🌿 Currently Improving</h3> 
+    <ul>
+    <li><b>Langs</b>: Go, Zig, C</li>
+    <li><b>Libs</b>: <code>syn.rs</code>, <code>sync.rs</code></li>
+    </ul>
+    <h3>🌱 Planned Learning</h3>
+    <ul>
+    <li>More Rust crates</li>
+    <li>Immutability and Containers (Docker/NIX)</li>
+    </ul>
+</div>
 
-
-<h3>🌿 Currently Improving</h3> 
-<ul>
-<li><b>Langs</b>: Go, Zig, C</li>
-<li><b>Libs</b>: <code>syn.rs</code>, <code>sync.rs</code></li>
-</ul>
-
-<div align="right">
+<div>
+<div align="left">
     <picture> <!-- Removes the hyperlink of the inner image -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=aritmos&show_icons=true&locale=en">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=aritmos&show_icons=true&locale=en">
     </picture>
 </div>
 
-<h3>🌱 Planned Learning</h3>
-<ul>
-<li>More Rust crates</li>
-<li>Immutability and Containers (Docker/NIX)</li>
-</ul>
-
+<div align="right">
+    <picture> <!-- Removes the hyperlink of the inner image -->
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=compact&langs_count=6&exclude_repo=ziglings,exercism">
+    </picture>
 </div>
-
+</div>
