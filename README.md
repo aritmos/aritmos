@@ -75,13 +75,13 @@ mod about_me {
     <h3>🌿 Currently Improving</h3> 
     <ul>
     <li><b>Langs</b>: Go, Zig, C</li>
-    <li><b>Libs</b>: <code>syn.rs</code>, <code>sync.rs</code></li>
+    <li><b>Hardware Knowledge</b>: Intel's System Programming <a href="https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html">^</a></li>
     </ul>
 </div>
 <div align="left">
     <h3>🌱 Planned Learning</h3>
     <ul>
-    <li>More Rust crates</li>
+    <li><b>Libs</b>: <code>syn.rs</code>, <code>sync.rs</code></li>
     <li>Immutability and Containers (Docker/NIX)</li>
     </ul>
     </div>
