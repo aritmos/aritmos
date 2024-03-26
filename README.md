@@ -4,10 +4,22 @@
     <h2>‎‎‎‎‎‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Hi I'm Seb!</h2>
 </div>
 
-- Generic techie who likes to abuse compute power.
-- Most interested in performance and data-oriented design: SIMD, Cache, Alloc, Algs, Hardware, etc.
-- Continuously learning new languages, libraries and tricks to write elegant and efficient code.
-- `&'static` (lifelong) Rustlang enjoyer 🦀, Zig advocate 🦎, and (neo)vim preacher ⌨️.
+<div>
+    <div align="center">
+    <picture> <!-- Removes the hyperlink of the inner image -->
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=compact&langs_count=6&exclude_repo=ziglings,exercism">
+    </picture>
+</div>
+<ul>
+<li>Traditional retro-futurist developer:<ul>
+    <li> 📠 Terminal hermit, 🚀 (Neo)Vim preacher 
+    <li> 🦀 <code>&'static</code> Rust enjoyer, 🦎 Zig advocate, 🔥 GC-awareness embassador </li>
+</ul></li>
+<li>Always learning new stuff so I can write increasingly more elegant and efficient code.</li>
+<li>Most interested in performance and data-oriented design:
+    <ul><li>SIMD, data, caches, allocations, algorithms, hardware, ...</li></ul></li>
+</ul>
+</div>
 
 ```rust
 #[impl_about_me(features="all")]
@@ -27,7 +39,7 @@ mod about_me {
 }
 ```
 
-<div align="left">
+<div align="center">
     <a href="https://www.codewars.com/users/aritmos">
         <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodewars.com%2Fapi%2Fv1%2Fusers%2Faritmos&query=%24.ranks.overall.name&prefix=%E3%80%88&suffix=%E3%80%89&style=for-the-badge&logo=codewars&logoColor=f05656&label=RANK&labelColor=16171b&color=bba2ff">
     </a>
@@ -54,30 +66,27 @@ mod about_me {
 <div>
     <div align="right">
     <picture> <!-- Removes the hyperlink of the inner image -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=compact&langs_count=6&exclude_repo=ziglings,exercism">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=aritmos&show_icons=true&locale=en">
     </picture>
 </div>
 <div align="left">
-<h3>🌿 Currently Improving</h3> 
-<ul>
-<li><b>Langs</b>: Go, Zig, C</li>
-<li><b>Libs</b>: <code>syn.rs</code>, <code>sync.rs</code></li>
-</ul>
+    <h3>🌿 Currently Improving</h3> 
+    <ul>
+    <li><b>Langs</b>: Go, Zig, C</li>
+    <li><b>Libs</b>: <code>syn.rs</code>, <code>sync.rs</code></li>
+    </ul>
 </div>
 <div align="left">
-<h3>🌱 Planned Learning</h3>
-<ul>
-<li>More Rust crates</li>
-<li>Immutability and Containers (Docker/NIX)</li>
-</ul>
+    <h3>🌱 Planned Learning</h3>
+    <ul>
+    <li>More Rust crates</li>
+    <li>Immutability and Containers (Docker/NIX)</li>
+    </ul>
+    </div>
 </div>
-</div>
-
-
 
 <div align="center">
-    <picture> <!-- Removes the hyperlink of the inner image -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritmos&show_icons=true&locale=en">
-    </picture>
+    <p> ⭐ Check out <a href="https://www.github.com/aritmos/rs2sql"><code>CrabQL</code><a>, my latest project! ⭐ </p>
 </div>
+
 
