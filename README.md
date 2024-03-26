@@ -13,9 +13,9 @@
 <ul>
 <li>Traditional retro-futurist developer:<ul>
     <li> 📠 Terminal hermit, 🚀 (Neo)Vim preacher 
-    <li> 🦀 <code>&'static</code> Rust enjoyer, 🦎 Zig advocate, 🔥 GC-awareness embassador </li>
+    <li> 🦀 Rust enjoyer, 🦎 Zig advocate, 🔥 GC-awareness embassador </li>
 </ul></li>
-<li>Always learning new stuff so I can write increasingly more elegant and efficient code.</li>
+<li>Always learning new stuff towards writing more elegant and efficient code.</li>
 <li>Most interested in performance and data-oriented design:
     <ul><li>SIMD, data, caches, allocations, algorithms, hardware, ...</li></ul></li>
 </ul>
