@@ -7,7 +7,7 @@
 <div>
     <div align="center">
     <picture> <!-- Removes the hyperlink of the inner image -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=1&hide=html,javascript,jupyter%20notebook&layout=compact&langs_count=6&exclude_repo=ziglings,exercism">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritmos&size_weight=0.5&count_weight=0.5&hide=html,javascript,jupyter%20notebook&layout=compact&langs_count=6&exclude_repo=ziglings,exercism">
     </picture>
 </div>
 <ul>
