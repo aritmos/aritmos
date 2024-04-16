@@ -16,8 +16,8 @@
     <li> 🦀 Rust enjoyer, 🦎 Zig advocate, 🔥 GC-awareness embassador </li>
 </ul></li>
 <li>Always learning new stuff towards writing more elegant and efficient code.</li>
-<li>Most interested in performance and data-oriented design:
-    <ul><li>DOD, DSA, SIMD, allocations, hardware, ...</li></ul></li>
+<li>Most interested in systems programming, focusing on efficiency via:
+    <ul><li>DOD, SIMD, mem tuning, DSA, hardware, etc.</li></ul></li>
 </ul>
 </div>
 
@@ -68,14 +68,14 @@ mod about_me {
 <div>
     <div align="right">
     <picture> <!-- Removes the hyperlink of the inner image -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=aritmos&show_icons=true&locale=en">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=aritmos&show_icons=true&locale=en&custom_title=Aritmos'%20Github%20Stats">
     </picture>
 </div>
 <div align="left">
     <h3>🌿 Currently Improving</h3> 
     <ul>
     <li><b>Langs</b>: Go, Zig, C</li>
-    <li><b>Hardware Knowledge</b>: Intel's System Programming <a href="https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html">^</a></li>
+    <li>VTune & Intel System Arch</li>
     </ul>
 </div>
 <div align="left">
@@ -88,7 +88,8 @@ mod about_me {
 </div>
 
 <div align="center">
-    <p> ⭐ Check out <a href="https://www.github.com/aritmos/rs2sql"><code>CrabQL</code><a>, my latest project! ⭐ </p>
+    <p> ⭐ Check out <a href="https://www.github.com/aritmos/rs2sql"><code>CrabQL</code><a> and <a href="https://www.github.com/aritmos/zwizz"><code>zwizz</code></a>, my latest projects! ⭐ </p>
+    <p> 🔖 Keep an eye out for posts in my new blog: <a href="https://dyn-thoughts.netlify.app">dyn-thoughts</a>! 🔖 </p>
 </div>
 
 
