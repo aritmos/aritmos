@@ -47,7 +47,7 @@ mod about_me {
     </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
     <a href="https://leetcode.com/aritmos/">
-        <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Faritmos&query=%24.totalSolved&style=for-the-badge&logo=leetcode&logoColor=yellow&label=LEETCODE&labelColor=black&color=ffa116">
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-rest-api.onrender.com%2Fprofile%2Faritmos&query=%24.data.submitStatsGlobal.acSubmissionNum.0.count&style=for-the-badge&logo=leetcode&logoColor=ffa116&label=SOLVED&labelColor=black&color=ffa116">
     </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/16x16.png">
      <a href="https://adventofcode.com/">
